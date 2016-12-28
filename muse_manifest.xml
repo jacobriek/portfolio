@@ -1,0 +1,76 @@
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="jacobriek.github.io/portfolio" resolutions="1x" timestamp="1482898708621">
+  <folder name="css">
+    <file name="site_global.css" crc="44245531"/>
+    <file name="master_a-master.css" crc="307650673" ref="index:email"/>
+    <file name="nomq_preview_master_a-master.css" crc="4241418558" ref="index:email"/>
+    <file name="index.css" crc="266754296" ref="index"/>
+    <file name="nomq_index.css" crc="434069780" ref="index"/>
+    <file name="iefonts_index.css" crc="423633784" ref="index"/>
+    <file name="email.css" crc="4026364064" ref="email"/>
+    <file name="nomq_email.css" crc="3773495669" ref="email"/>
+    <file name="iefonts_email.css" crc="423633784" ref="email"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:email"/>
+    <file name="museutils.js" crc="4148063285" ref="index:email"/>
+    <file name="whatinput.js" crc="86476730" ref="index:email"/>
+    <file name="museconfig.js" crc="4179431180" ref="index:email"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index:email"/>
+    <file name="jquery.musemenu.js" crc="3765830709" ref="index:email"/>
+    <file name="webpro.js" crc="3986320349" ref="index:email"/>
+    <file name="musewpslideshow.js" crc="405464237" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="305414130" ref="index"/>
+    <file name="touchswipe.js" crc="221459597" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:email"/>
+    <file name="jquery.museresponsive.js" crc="3991890305" ref="index:email"/>
+    <file name="require.js" crc="4159430777" ref="index:email"/>
+    <file name="form_check.php" crc="303648844" ref="email"/>
+    <file name="form_throttle.php" crc="236764551" ref="email"/>
+    <file name="form_process.php" crc="4272079531" ref="email"/>
+    <file name="form-u1339.php" crc="21014572" ref="email"/>
+  </folder>
+  <folder name="images">
+    <file name="webdes2.png" crc="251462643" seo="true" ref="index:email"/>
+    <file name="photog2.png" crc="3882618236" seo="true" ref="index:email"/>
+    <file name="texture art2.png" crc="140756803" seo="true" ref="index:email"/>
+    <file name="113011-music-childish-gambino-crop-u662.png" crc="173173693" ref="index"/>
+    <file name="background-crop-u690.jpg" crc="4189401734" ref="index"/>
+    <file name="league_of_legends_icon.png" crc="3867152853" seo="true" ref="index"/>
+    <file name="landmark-bridge-cliff-california-crop-u672.jpg" crc="4215005694" ref="index"/>
+    <file name="adobe.png" crc="446696741" seo="true" ref="index"/>
+    <file name="autodesk.png" crc="137050691" seo="true" ref="index"/>
+    <file name="micro.png" crc="3832894354" seo="true" ref="index"/>
+    <file name="20160917_125456-crop-u1828.jpg" crc="82466477" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:email"/>
+    <file name="img_0465.jpg" crc="4135171404" seo="true" ref="index"/>
+    <file name="imgcache0184874625-crop-u1911.jpg" crc="4000265603" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="img_0482.jpg" crc="4018495676" seo="true" ref="index"/>
+    <file name="img_0483-crop-u2099.jpg" crc="4179777861" ref="index"/>
+    <file name="imgcache0357525870.jpg" crc="3814556459" seo="true" ref="index"/>
+    <file name="imgcache0208266675-crop-u2113.jpg" crc="3809441810" ref="index"/>
+    <file name="imgcache0195481685-crop-u2120.jpg" crc="4135184646" ref="index"/>
+    <file name="imgcache0322149839-crop-u2124.jpg" crc="4131181699" ref="index"/>
+    <file name="imgcache0-crop-u2201.png" crc="168275379" ref="index"/>
+    <file name="imgcache0322462906-crop-u2126.jpg" crc="4254749134" ref="index"/>
+    <file name="imgcache0284453931.jpg" crc="3773094675" seo="true" ref="index"/>
+    <file name="facebook white.png" crc="175627888" seo="true" ref="index:email"/>
+    <file name="twitter white.png" crc="3946093345" seo="true" ref="index:email"/>
+    <file name="instagram white.png" crc="331063682" seo="true" ref="index:email"/>
+    <file name="pasted image 404x773-crop-u607.jpg" crc="3868700265" ref="index:email"/>
+    <file name="imgcache0-crop-u22012.png" crc="473558519" ref="index"/>
+    <file name="20160917_125456-crop-u3625.jpg" crc="4279893965" ref="index"/>
+    <file name="img_0465-crop-u3623.jpg" crc="4096678834" ref="index"/>
+    <file name="imgcache0184874625-crop-u3627.jpg" crc="4130916690" ref="index"/>
+    <file name="imgcache0195481685-crop-u3808.jpg" crc="382146700" ref="index"/>
+    <file name="imgcache0208266675-crop-u3761.jpg" crc="4173605671" ref="index"/>
+    <file name="img_0483-crop-u3775.jpg" crc="3772798142" ref="index"/>
+    <file name="imgcache0322149839-crop-u3810.jpg" crc="249827510" ref="index"/>
+    <file name="imgcache0322462906.jpg" crc="4179712195" seo="true" ref="index"/>
+    <file name="113011-music-childish-gambino-crop-u3543.png" crc="508951790" ref="index"/>
+    <file name="landmark-bridge-cliff-california-crop-u3533.jpg" crc="4106811855" ref="index"/>
+    <file name="background-crop-u3541.jpg" crc="443744965" ref="index"/>
+  </folder>
+  <file name="index.html" crc="236262111" seo="true" mt="1482898329166" redirect="true"/>
+  <file name="email.html" crc="3902082887" seo="true" mt="1482897536742" redirect="true"/>
+</manifest>
